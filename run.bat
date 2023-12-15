@@ -1,0 +1,1 @@
+cd C:\Curso JS\MyWeb\myweb && npm run dev
